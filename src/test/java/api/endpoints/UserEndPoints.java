@@ -23,7 +23,7 @@ public class UserEndPoints {
 	
 	public static Response readUser(String userName) {
 		Response response = given()
-				.pathParam("userbane","userName")
+				.pathParam("username","userName")
 				.when()
 					.get(Routes.get_url);
 		return response;
