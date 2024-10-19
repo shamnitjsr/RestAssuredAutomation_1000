@@ -1,4 +1,4 @@
-package utilities;
+package api.utilities;
 
 import java.io.IOException;
 

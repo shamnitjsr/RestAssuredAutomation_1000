@@ -5,8 +5,8 @@ import org.testng.annotations.Test;
 
 import api.endpoints.UserEndPoints;
 import api.payload.User;
+import api.utilities.DataProviders;
 import io.restassured.response.Response;
-import utilities.DataProviders;
 
 public class DDTests {
 

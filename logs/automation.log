@@ -1,0 +1,41 @@
+17:43:54.085 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\RestAssuredAutomation_1000\testng.xml"
+17:43:54.369 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\RestAssuredAutomation_1000\testng.xml
+
+17:43:54.867 [main] INFO  api.test.UserTests - ***************** Creating User *****************
+17:43:58.076 [main] INFO  api.test.UserTests - ***************** User is created *****************
+17:43:58.085 [main] INFO  api.test.UserTests - ***************** Reading User Info *****************
+17:43:59.240 [main] INFO  api.test.UserTests - ***************** Updating User *****************
+17:44:00.339 [main] INFO  api.test.UserTests - ***************** Deleting User *****************
+17:44:01.458 [main] INFO  api.test.UserTests - ***************** Deleted User *****************
+18:16:51.514 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\RestAssuredAutomation_1000\testng.xml"
+18:16:51.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\RestAssuredAutomation_1000\testng.xml
+
+18:16:52.221 [main] INFO  api.test.UserTests2 - ***************** Creating User *****************
+18:16:56.568 [main] INFO  api.test.UserTests2 - ***************** User is created *****************
+18:16:56.576 [main] INFO  api.test.UserTests2 - ***************** Reading User Info *****************
+18:16:57.866 [main] INFO  api.test.UserTests2 - ***************** Updating User *****************
+18:16:59.163 [main] INFO  api.test.UserTests2 - ***************** Deleting User *****************
+18:17:00.511 [main] INFO  api.test.UserTests2 - ***************** Deleted User *****************
+18:31:04.670 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\RestAssuredAutomation_1000\testng.xml"
+18:31:05.434 [main] INFO  api.test.UserTests2 - ***************** Creating User *****************
+18:31:08.928 [main] INFO  api.test.UserTests2 - ***************** User is created *****************
+18:31:08.934 [main] INFO  api.test.UserTests2 - ***************** Reading User Info *****************
+18:31:10.084 [main] INFO  api.test.UserTests2 - ***************** Updating User *****************
+18:31:11.288 [main] INFO  api.test.UserTests2 - ***************** Deleting User *****************
+18:31:12.426 [main] INFO  api.test.UserTests2 - ***************** Deleted User *****************
+18:35:24.825 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\RestAssuredAutomation_1000\testng.xml"
+18:35:25.501 [main] INFO  api.test.UserTests2 - ***************** Creating User *****************
+18:35:28.698 [main] INFO  api.test.UserTests2 - ***************** User is created *****************
+18:35:28.702 [main] INFO  api.test.UserTests2 - ***************** Reading User Info *****************
+18:35:29.844 [main] INFO  api.test.UserTests2 - ***************** Updating User *****************
+18:35:31.006 [main] INFO  api.test.UserTests2 - ***************** Deleting User *****************
+18:35:32.138 [main] INFO  api.test.UserTests2 - ***************** Deleted User *****************
+18:37:54.068 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\RestAssuredAutomation_1000\testng.xml"
+18:37:54.728 [main] INFO  api.test.UserTests2 - ***************** Creating User *****************
+18:37:59.077 [main] INFO  api.test.UserTests2 - ***************** User is created *****************
+18:37:59.086 [main] INFO  api.test.UserTests2 - ***************** Reading User Info *****************
+18:38:00.282 [main] INFO  api.test.UserTests2 - ***************** Updating User *****************
+18:38:01.412 [main] INFO  api.test.UserTests2 - ***************** Deleting User *****************
+18:38:02.527 [main] INFO  api.test.UserTests2 - ***************** Deleted User *****************
